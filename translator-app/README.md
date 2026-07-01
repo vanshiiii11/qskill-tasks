@@ -1,3 +1,12 @@
+# AI Translator App
+
+## Screenshot
+
+![Home Screen](screenshots/translator-home.png)
+
+## Translation Example
+
+![Translation Result](screenshots/translation-result.png)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
