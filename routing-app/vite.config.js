@@ -3,6 +3,5 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/qskill-tasks/routing-app/',
   plugins: [react(), tailwindcss()],
 })
